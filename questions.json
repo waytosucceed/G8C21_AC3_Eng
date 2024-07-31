@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Compare the tone of the following two excerpts from the story:<br>Excerpt 1:<br>One of Sherlock Holmes’s defects—if, indeed, one may call it a defect—was that he was exceedingly loath to communicate his full plans to any other person until the instant of their fulfilment. Partlymit came no doubt from his own masterful nature, which loved to dominate and surprise those who were around him. Partly also from his professional caution, which urged him never to take any chances. The result, however, was very trying for those who were acting as his agents and assistants.The great ordeal was in front of us; at last we were about to make our final effort, and yet Holmes had said nothing, and I could only surmise what his course of action would be.<br>Excerpt 2:<br>My nerves thrilled with anticipation when at last the cold wind upon our faces and the dark, void spaces on either side of the narrow road told me that we were back upon the moor once again. Every stride of the horses and every turn of the wheels was taking us nearer to our supreme adventure.",
+        "options": [
+            "a) Assuring, tensed",
+            "b) Complaining, ensuing suspense",
+            "c) Anxious, mysterious",
+            "d) None of the above"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Read the excerpt below and answer the question that follows it: Looking over, I saw the naturalist pause at the door of an out-house in the corner of the orchard.<br> Choose the correct evidence from the text to show that the narrator rightly claimed to see the naturalist in the corner of the orchard?",
+        "options": [
+            "a) A key turned in a lock, and as he passed in there was a curious scuffling noise from within.",
+            "b) He was only a minute or so inside, and then I heard the key turn once more and he passed me and reentered the house.",
+            "c) I saw him rejoin his guest, and I crept quietly back to where my companions were waiting to tell them what I had seen.",
+            "d) ....but for heaven’s sake don’t let them know that they are watched!” I tiptoed down the path and stooped behind the low wall which surrounded the stunted orchard. Creeping in its shadow I reached a point whence I could look straight through the uncurtained window."
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "What is the author’s purpose behind giving the story an extremely foggy night as its setting?",
+        "options": [
+            "a) The fog at night challenges the protagonist and his team to unravel the incidents happening inside and outside the Merripit house on the boggy moor",
+            "b) to develop a sense of mystery, suspense and tension.",
+            "c) The fog in the entails a layer of character versus nature conflict",
+            "d) All of the above"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "What is the point of the story?",
+        "options": [
+            "a) First person-omniscient",
+            "b) First-person -limited",
+            "c) Third person-omniscient",
+            "d) Second person limited"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "What is the high point of the rising action of the story?",
+        "options": [
+            "a) When the lights of the kitchen at Merripit House is suddenly switched off",
+            "b) When a certain lady is supposed to be present in the Merripit House and she is found absent.",
+            "c) When Holmes and his team see the expected individual walking through the fog",
+            "d) Both A and B"
+        ],
+        "correct": 1
+    }
+]
